@@ -1,2 +1,2 @@
 # ecom23
-Klassens förta repo
+Klassens förtsa repo
