@@ -1,0 +1,179 @@
+* {
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+
+header {
+    background-image: url(header-background.png);
+    height: 655px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    background-color: #020B15;
+    flex-direction: column;
+}
+
+h1 {
+    font-family:"Italiana";
+    font-size: 106px;
+    font-style: normal;
+    font-weight: 400;
+    color: #fff;
+}
+
+.reflektion {
+    font-family: "Italianno";
+    font-size: 40px;
+    font-weight: 400;
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: end;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.parent {
+    width: 1220px;
+    height: 360px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.child {
+    background-image: url(skateboard.jpg);
+    height: 360px;
+    width: 610px;
+    display: flex;
+    color: #090808;
+    flex-direction: row;
+    justify-content: center;
+    background-size: cover;
+    font-family: "Italiana";
+    font-size: 40px;
+    font-weight: 400;
+}
+
+
+.childs {
+    background-color: #090808;
+    height: 360px;
+    width: 610px;
+    display: flex;
+    color: #fff;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: "Italiana";
+    font-size: 40px;
+    font-weight: 400;
+}
+
+.förälder {
+    background-color: white;
+    width: 1220px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.barn {
+    width: 1220px;
+    color: #080808;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2rem;
+}
+
+h2 {
+    font-family: "Italiana";
+    font-size: 40px;
+    font-weight: 400;
+    padding: 10px;
+}
+
+.hr1 {
+    background-color: #500131;
+}
+.hr2 {
+    background-color: #083E3C;
+}
+.hr3 {
+    background-color: #080808;
+}
+
+.slutsats {
+    font-size: 16px;
+    font-weight: 400;
+    color: #090808;
+    font-family: "open sans";
+    padding: 10px;
+    text-align: center;
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+
+footer {
+    width: 1220px;
+    height: 373px;
+    background-color: #090808;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+
+.footer-text {
+    font-family: "Italiana";
+    font-size: 16px;
+    font-weight: 400;
+    color: #fff;
+ }
+.buttons{
+    background-color: #090808;
+    border: 0;
+}
+
+p {
+    color: #fff;
+}
+.hejdå {
+    height: 200px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.byme {
+    color: #fff;
+    height: 200px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.heart {
+    color: #b42d7e;
+}
