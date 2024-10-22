@@ -55,7 +55,7 @@ main {
 }
 
 .child {
-    background-image:url("images/skateboard.jpg");
+    background-image:url("../images/skateboard.jpg");
     height: 360px;
     width: 610px;
     display: flex;
